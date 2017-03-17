@@ -1,0 +1,2 @@
+# MoviePick
+simple movies app
